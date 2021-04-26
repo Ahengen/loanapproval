@@ -1,0 +1,13 @@
+h1{
+    font-weight: bold;
+}
+body{
+    background-image: url("diamonds.jpg") ;
+    background-size: 100%;
+    background-color: dimgrey;
+    background-repeat: no-repeat;
+    color: cornsilk;
+    padding-left: 2em;
+    padding-top: 3em;
+    font-weight: bolder;
+}
